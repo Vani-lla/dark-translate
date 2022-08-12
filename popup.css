@@ -1,0 +1,21 @@
+body {
+   background-color: #202124;
+}
+
+label {
+    width: fit-content;
+    color: #bdc1c6;
+    font-size: 1.2em;
+    white-space: nowrap;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    margin-top: .5em;
+}
+
+input {
+    background-color: #161719;
+    border-color: #bdc1c680;
+}
