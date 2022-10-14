@@ -2,7 +2,7 @@
    "manifest_version": 3,
    "name": "Dark Theme for Google Translate",
    "description": "Makes the background dark and changes the leading color",
-   "version": "2.0",
+   "version": "2.1",
    "icons": {
       "16": "/images/logo-16.png",
       "48": "/images/logo-48.png",
