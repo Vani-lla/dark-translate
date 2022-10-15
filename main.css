@@ -33,7 +33,8 @@
 .gb_Hc,
 .CLKk4c,
 .gb_Mc .gb_Ic,
-.QcsUad.BDJ8fb:not(.Jj6Lae) {
+/* .QcsUad.BDJ8fb:not(.Jj6Lae), */
+.QcsUad {
     background-color: #202124 !important;
 }
 
