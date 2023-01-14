@@ -34,7 +34,9 @@
 .CLKk4c,
 .gb_Mc .gb_Ic,
 /* .QcsUad.BDJ8fb:not(.Jj6Lae), */
-.QcsUad {
+.QcsUad,
+.Pt010b .a2Icud,
+.gb_Kc {
     background-color: #202124 !important;
 }
 
@@ -63,7 +65,8 @@
 .VfPpkd-LgbsSe-OWXEXe-INsAgc .VfPpkd-Jh9lGc::after,
 .yUUmWd.VfPpkd-AznF2e-OWXEXe-auswjd .VfPpkd-YVzG2b::before,
 .yUUmWd.VfPpkd-AznF2e-OWXEXe-auswjd .VfPpkd-YVzG2b::after,
-.Pk9dvb:not(:disabled) {
+.Pk9dvb:not(:disabled),
+.CQQi5b {
     background-color: var(--highlight-color) !important;
 }
 
