@@ -5,5 +5,5 @@ chrome.storage.sync.get('color', ({color}) => {
 })
 
 colorPicker.addEventListener("change", (event) => {
-    chrome.storage.sync.set({"color": event.target.value});
+    chrome.storage.local.set({"color": event.target.value});
 })

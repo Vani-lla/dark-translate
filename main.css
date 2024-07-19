@@ -36,9 +36,24 @@
 /* .QcsUad.BDJ8fb:not(.Jj6Lae), */
 .QcsUad,
 .Pt010b .a2Icud,
-.gb_Kc {
+.gb_Kc,
+.dOQF4b,
+.CMhTbb,
+.gb_Oc,
+.gb_Qc,
+.kXN2zb,
+.D2iQR,
+.vPHZid,
+.kmXzdf,
+.eSogib,
+.hX7wnb,
+.HHrMdc,
+body,
+.gb_Lc {
     background-color: #202124 !important;
 }
+
+
 
 .RvYhPd::before,
 .ySES5,
@@ -47,7 +62,12 @@
 .yFQBKb,
 .fMHXgc,
 .PG9puc,
-.yJWPX:hover {
+.yJWPX:hover,
+.X2ZoU.X2ZoU,
+.MxWhHf.MxWhHf,
+.GyPTPe.GyPTPe,
+.Ft4sJe.Ft4sJe,
+.U8K5nb {
     background-color: #161719 !important;
 }
 
@@ -66,19 +86,21 @@
 .yUUmWd.VfPpkd-AznF2e-OWXEXe-auswjd .VfPpkd-YVzG2b::before,
 .yUUmWd.VfPpkd-AznF2e-OWXEXe-auswjd .VfPpkd-YVzG2b::after,
 .Pk9dvb:not(:disabled),
-.CQQi5b {
+.CQQi5b,
+.zhBWDc:not(:disabled),
+.gb_dd {
     background-color: var(--highlight-color) !important;
 }
 
 .BSw7K.iYelWb .irkilc:not(:disabled),
 .BSw7K.MFKVse .hL2wFc:not(:disabled),
 .BSw7K.H4CMrb .aiUxpf:not(:disabled),
-.VfPpkd-LgbsSe:hover,
 .kwsPce:not(:disabled),
-.VfPpkd-Jh9lGc:hover,
 .oJweqc.KKjvXb,
-.oJweqc:hover,
-.ksBjEc:not(:disabled) {
+.ksBjEc:not(:disabled),
+.BSw7K.Vkm6Re .NMQgkb:not(:disabled),
+.Rj2Mlf:not(:disabled):hover,
+.Rj2Mlf:not(:disabled):active {
     background-color: var(--highlight-color12) !important;
     /* 12% opacity for GoldenRod */
 }
@@ -86,14 +108,21 @@
 .JLqJ4b.C1N51c,
 .JLqJ4b:hover,
 .kgnlhe.FwR7Pc,
-.MtFg0.FwR7Pc {
+.MtFg0.FwR7Pc,
+.Ose4Jf.VfPpkd-AznF2e-OWXEXe-auswjd .VfPpkd-YVzG2b::before,
+.Ose4Jf.VfPpkd-AznF2e-OWXEXe-auswjd .VfPpkd-YVzG2b::after {
     background-color: var(--highlight-color30) !important;
     /* 30% opacity for GoldenRod */
 }
 
 /* Language selection gradient */
-.X4DQ0::after {
+.X4DQ0::after,
+.GAyS9e {
     background-image: linear-gradient(to right, transparent, #202124) !important;
+}
+
+.U0xwnf::after {
+    background-image: none !important;
 }
 
 body,
@@ -148,7 +177,14 @@ input,
 .trWsae,
 .cWQYBc .irkilc,
 .cWQYBc .aiUxpf,
-.lRu31 {
+.lRu31,
+.cWQYBc .hL2wFc,
+.cWQYBc .NMQgkb,
+.cWQYBc .irkilc,
+.cWQYBc .aiUxpf,
+.pWIpbc,
+.Jp7KKb,
+.XOPM0 {
     color: #bdc1c6 !important;
 }
 
@@ -158,7 +194,9 @@ input,
 .brilXb,
 .nYkDR,
 .PsfnLc,
-.nIvUSc {
+.nIvUSc,
+.LjDxcd:not(:disabled),
+.U8K5nb {
     color: #979A9E !important;
 }
 
@@ -181,9 +219,32 @@ a,
 .PrVWEc,
 .kihvAe,
 .zpaZf,
-.Rj2Mlf,
-.cfWmIb.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc {
+.cfWmIb.VfPpkd-fmcmS-yrriRe-OWXEXe-XpnDCe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc,
+.ooArgc,
+body.bTweAe .KFEMpb,
+.a8FIud.X0rvP .X86VN[aria-pressed="true"],
+body.bTweAe .uHVBnb,
+.X2ZoU.X2ZoU,
+.MxWhHf.MxWhHf,
+.GyPTPe.GyPTPe,
+.Ft4sJe.Ft4sJe,
+.VfPpkd-LgbsSe-OWXEXe-INsAgc:not(:disabled):active {
     color: var(--highlight-color) !important;
+}
+
+.Rj2Mlf:not(:disabled),
+.gb_dd {
+    color: #bdc1c6 !important;
+}
+
+.LQeN7 .VfPpkd-J1Ukfc-LhBDec,
+.hX7wnb,
+.irNkpb {
+    border: none !important;
+}
+
+.HHrMdc {
+    border-right: 4px solid #161719 !important;
 }
 
 .I87fLc.XzOhkf,
@@ -205,8 +266,47 @@ a,
 .pGxpHc header,
 .GR2kEe:not(:last-child),
 .cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) *,
-.QcsUad {
+.QcsUad,
+.dQBt,
+.iWzU,
+.iWzUVd,
+body.bTweAe .bvzp8c.Tht3fc,
+body.bTweAe .bvzp8c.DlHcnf,
+.Pt010b *,
+.Pt010b,
+.bvzp8c.Tht3fc,
+.bvzp8c.DlHcnf {
     border-color: #bdc1c680 !important;
+}
+
+.AxqVh,
+.iggndc,
+.oLbzv,
+.FM9KDb {
+    border-top: 1px solid #bdc1c680 !important;
+}
+
+.rm1UF {
+    border: none !important;
+    border-radius: 0px !important;
+    border-right: 1px solid #bdc1c680 !important;
+}
+
+.caTGn,
+.k5v5Nb,
+.CLKk4c,
+.ccvoYb {
+    box-shadow: 0 5px 20px 1px #161719 !important;
+}
+
+.vPHZid,
+.kmXzdf,
+.eSogib {
+    box-shadow: -1px 0 #bdc1c680 !important;
+}
+
+.KjuTac {
+    outline: 1px solid #bdc1c660 !important;
 }
 
 .Rj2Mlf:not(:disabled),
@@ -234,11 +334,30 @@ a,
     caret-color: var(--highlight-color) !important;
 }
 
-.a8FIud.X0rvP .X86VN[aria-pressed="true"] {
-    color: var(--highlight-color) !important;
-}
-
 .DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo,
 .DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: var(--highlight-color) !important;
+    filter: invert(100%);
+}
+
+.ita-hwt-ime-st {
+    filter: invert(100%) !important;
+}
+
+.ita-kd-arrow.ita-kd-icon-span,
+.ita-kd-statusbar-icon,
+.ita-kd-icon-button.ita-kd-selected .ita-kd-icon-span,
+.ita-kd-icon-span {
+    filter: invert(100%);
+}
+
+.OwOEge,
+.BXabBd,
+.zklE3,
+.c5bTNd {
+    height: 0px;
+}
+
+canvas {
+    background-color: #E9E8E6 !important;
 }
